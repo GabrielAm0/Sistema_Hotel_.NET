@@ -1,0 +1,15 @@
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\bin\Debug\net6.0\Sistema_Hotel.NET.exe
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\bin\Debug\net6.0\Sistema_Hotel.NET.deps.json
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\bin\Debug\net6.0\Sistema_Hotel.NET.runtimeconfig.json
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\bin\Debug\net6.0\Sistema_Hotel.NET.dll
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\bin\Debug\net6.0\Sistema_Hotel.NET.pdb
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\Sistema_Hotel.NET.csproj.AssemblyReference.cache
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\Sistema_Hotel.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\Sistema_Hotel.NET.AssemblyInfoInputs.cache
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\Sistema_Hotel.NET.AssemblyInfo.cs
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\Sistema_Hotel.NET.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\Sistema_Hotel.NET.dll
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\refint\Sistema_Hotel.NET.dll
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\Sistema_Hotel.NET.pdb
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\Sistema_Hotel.NET.genruntimeconfig.cache
+C:\Users\Gabriel Amorim\RiderProjects\Sistema_Hotel.NET\Sistema_Hotel.NET\obj\Debug\net6.0\ref\Sistema_Hotel.NET.dll
